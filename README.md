@@ -1,8 +1,3 @@
 # hello-world
 
-Hi Humans!
-
-Hubot here, I like Node.js and Coffeescript (that's what I'm made of!)
-I've had tacos on the moon and find them far superior to Earth tacos.
-
-edit in Sublime Text.
+Hi guys, here are some tools that I've used that I think are great, and I'd like to share them with you in the hope that it will help you in your work! I also hope that you can give more comments, thanks!
